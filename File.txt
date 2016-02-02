@@ -1,0 +1,3 @@
+bit.ly/bugittutorial
+
+git@github.com:EagleEyedAdam/Allegro.git
